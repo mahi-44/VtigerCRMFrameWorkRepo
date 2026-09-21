@@ -45,13 +45,8 @@ public class CreateCampaignPage {
 	public WebElement getAssignToRadioButton() {
 		// TODO Auto-generated method stub
 		return null;
-	}
-	public WebElement getClosingEndDate() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-	public WebElement getSaveButtonTop() {
-		// TODO Auto-generated method stub
-		return null;
+	
+	
+	
 	}
  }
